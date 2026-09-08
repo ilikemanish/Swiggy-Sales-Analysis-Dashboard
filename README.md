@@ -10,7 +10,7 @@
 
   <br>
 
-  ### 🔴 [**CLICK HERE FOR LIVE INTERACTIVE PREVIEW**](https://manish-kashyap.github.io/Swiggy-Sales-Analysis-Dashboard/) 🔴
+  ### 🔴 [**CLICK HERE FOR LIVE INTERACTIVE PREVIEW**](https://ilikemanish.github.io/Swiggy-Sales-Analysis-Dashboard/) 🔴
   
   <br>
 </div>
