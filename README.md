@@ -91,7 +91,7 @@ At a glance, the dataset reveals the following macro-level metrics:
 ## 📷 Dashboard Preview
 
 <div align="center">
-  <img src="DASHBOARD.png" alt="Swiggy Dashboard Preview" width="850">
+  <img src="Dashboard.png" alt="Swiggy Dashboard Preview" width="850">
   <br>
   <i>A static view of the final dashboard interface. For the interactive version, please use the Live Preview link at the top of this page.</i>
 </div>
